@@ -254,7 +254,7 @@ a:hover {
   margin-bottom: 100px;
 }
 
-.section__title{
+.section-title{
   width: 60%;
   text-align: center;
   margin-top: 0;
@@ -264,7 +264,7 @@ a:hover {
   font-weight: bold;
 }
 
-.section__subtitle{
+.section-subtitle{
   margin: 0;
   text-align:center;
   line-height: 34px;
@@ -466,25 +466,6 @@ a:hover {
   align-items: center;
 }
 
-.resources__title{
-  margin-top: 100px;
-  margin-bottom: 0;
-  width: 60%;
-  text-align: center;
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: bold;
-}
-
-.resources__subtitle{
-  width: 60%;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 80px;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-}
 
 .resources__logo-zone{
   width: 1100px;
