@@ -203,6 +203,7 @@ a:hover {
   flex-direction: column;
   align-items: center;
   position: relative;
+  top: 63px;
 }
 
 .video__title{
@@ -228,7 +229,7 @@ a:hover {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
-
+  position: relative;
 }
 
 .video__iframe{
