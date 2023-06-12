@@ -464,6 +464,7 @@ a:hover {
   display: flex;
   flex-direction:column;
   align-items: center;
+  margin-top: 100px;
 }
 
 
@@ -499,7 +500,7 @@ a:hover {
 
 }
 
-.logo__place_footer{
+.logo--place-footer{
   width: 183px;
   height: 35px;
 }
